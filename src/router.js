@@ -5,14 +5,14 @@ import AboutPage from './pages/AboutPage.vue';
 import ContactPage from './pages/ContactPage.vue';
 
 const routes = [
-  { path: '/', component: HomePage, name: 'Home' },
-  { path: '/about', component: AboutPage, name: 'About' },
-  { path: '/contact', component: ContactPage, name: 'Contact' },
+    { path: '/', component: HomePage, name: 'Home' },
+    { path: '/about', component: AboutPage, name: 'About' },
+    { path: '/contact', component: ContactPage, name: 'Contact' },
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
-  routes,
+    history: createWebHistory(),
+    routes,
 });
 
 export default router;
