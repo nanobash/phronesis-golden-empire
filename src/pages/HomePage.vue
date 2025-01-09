@@ -1,6 +1,6 @@
 <template>
     <div>
         <h1>Home Page</h1>
-        <p>Welcome to the Phronesis DigiCasino!</p>
+        <p>Welcome to the Royal Infinity!</p>
     </div>
 </template>
