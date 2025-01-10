@@ -1,5 +1,7 @@
 require('dotenv').config({ path: '.env.local' });
 
+// Set environmental variables
+
 const API_SECRET_KEY = process.env.API_SECRET_KEY;
 const ORGANIZATION_ID = process.env.ORGANIZATION_ID;
 const WEBSITE_ID = process.env.WEBSITE_ID;
