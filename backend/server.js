@@ -6,6 +6,7 @@ const API_SECRET_KEY = process.env.API_SECRET_KEY;
 const ORGANIZATION_ID = process.env.ORGANIZATION_ID;
 const WEBSITE_ID = process.env.WEBSITE_ID;
 const CUSTOMER_ID = process.env.CUSTOMER_ID;
+const FRONTEND_ORIGIN_URL = process.env.FRONTEND_ORIGIN_URL;
 
 // -----------------------------------------------------------------------------------------
 
@@ -13,8 +14,14 @@ const cors = require('cors');
 const express = require('express');
 const app = express();
 
+const corsOptions = {
+    origin: FRONTEND_ORIGIN_URL,
+    methods: ['POST'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+};
+
 // Allow all origins
-app.use(cors());
+app.use(cors(corsOptions));
 
 const RebillySDK = require('rebilly-js-sdk').default;
 
