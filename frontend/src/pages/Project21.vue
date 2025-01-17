@@ -17,14 +17,14 @@ window.addEventListener('load', function () {
 
         try {
             const response = await axios.post(url, {}, { headers });
-            const token = response.data.token;
+            const cashierToken = response.data.token;
 
             const mountElement = document.querySelector('#deposit');
 
             if (window.RebillyCashier) {
                 RebillyCashier.renderDeposit({
                     mountElement,
-                    token,
+                    cashierToken,
                 });
             } else {
                 console.error('RebillyCashier library not loaded');
