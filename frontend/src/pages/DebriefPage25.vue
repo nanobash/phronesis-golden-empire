@@ -64,7 +64,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> We struggled to create a disputed transaction on <strong>Checkout.com</strong> side, only <strong>10.4</strong> amount worked for it from the amounts which tried according to the documentation. Eventually we took amount from the JSON example from the <strong>Checkout.com</strong> documentation.
+                        <strong>Notice: </strong> We struggled to create a disputed transaction on <strong>Checkout.com</strong> side, only <strong>10.4</strong> amount worked for it from the amounts which we tried according to the documentation. Eventually we took amount from the JSON example.
                     </li>
                 </ol>
             </div>
