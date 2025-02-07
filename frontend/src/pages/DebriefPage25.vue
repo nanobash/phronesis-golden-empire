@@ -52,19 +52,19 @@
             <div class="col-12 bg-light p-3 mb-3 rounded shadow-sm">
                 <ol class="list-group list-group-numbered text-start">
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> In "Gateway accounts", UX is not very intuitive, it's not clear whether "Signature key" is actually filled or not.
+                        <strong>Notice: </strong> In <strong>Gateway accounts</strong>, UX is not very intuitive, it's not clear whether <strong>Signature key</strong> is actually filled or not.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> In the <a href="https://www.rebilly.com/docs/settings/set-up-a-gateway#instant-payment-notifications-ipns" target="_blank">Instant payment notifications (IPNs)</a> documentation, it's not clear what is the sandbox IPN URL.
+                        <strong>Notice: </strong> In the <strong><a href="https://www.rebilly.com/docs/settings/set-up-a-gateway#instant-payment-notifications-ipns" target="_blank">Instant payment notifications (IPNs)</a></strong> documentation, it's not clear what is the sandbox <strong>IPN URL</strong>.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> In the <a href="https://www.rebilly.com/docs/settings/set-up-a-gateway#instant-payment-notifications-ipns" target="_blank">Instant payment notifications (IPNs)</a> documentation, it will be nice to indicate, that the actual IPN is available under specific gateway account section.
+                        <strong>Notice: </strong> In the <strong><a href="https://www.rebilly.com/docs/settings/set-up-a-gateway#instant-payment-notifications-ipns" target="_blank">Instant payment notifications (IPNs)</a></strong> documentation, it will be nice to indicate, that the actual <strong>IPN</strong> is available under specific gateway account section.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> We struggled to create a disputed transaction on Checkout.com side, only 10.4 amount worked for it from the amounts which tried according to the documentation. Eventually we took amount from the JSON example from the Checkout.com documentation.
+                        <strong>Notice: </strong> We struggled to create a disputed transaction on <strong>Checkout.com</strong> side, only <strong>10.4</strong> amount worked for it from the amounts which tried according to the documentation. Eventually we took amount from the JSON example from the <strong>Checkout.com</strong> documentation.
                     </li>
                 </ol>
             </div>
