@@ -44,17 +44,17 @@
             <div class="col-12 bg-light p-3 mb-3 rounded shadow-sm">
                 <ol class="list-group list-group-numbered text-start">
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Missing information on the order and customer timelines regarding the email reminder that was sent.
-                        <strong>Referenced in <a href="https://github.com/Rebilly/rebilly/issues/10204" target="_blank">GitHub issue</a>.</strong>
-                    </li>
-
-                    <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong> If order is early paid, we don't have possibility to filter out such cases not to send false positive notification to a customer.
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong> We noticed that when clicking <strong>Cancel</strong> or <strong>X</strong> on <strong>Change trial end date</strong> dialog box, the order page unnecessarily reloads.
                         <strong>Referenced in <a href="https://github.com/Rebilly/rebilly/issues/10238" target="_blank">GitHub issue</a>.</strong>
+                    </li>
+
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> Missing timeline information regarding the email reminder that was sent.
+                        <strong>Referenced in <a href="https://github.com/Rebilly/rebilly/issues/10204" target="_blank">GitHub issue</a>.</strong>
                     </li>
                 </ol>
             </div>
