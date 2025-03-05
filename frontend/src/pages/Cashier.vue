@@ -47,3 +47,13 @@ window.addEventListener('load', function () {
     makePostRequest();
 });
 </script>
+
+<style>
+:root {
+    --r-payment-method-item-border-radius: 20px;
+    --r-button-border-radius: 20px;
+    --r-button-text-color-hover: white;
+    --r-button-primary-text-color: white; /* default color */
+    --r-button-background-hover: blue;
+}
+</style>
