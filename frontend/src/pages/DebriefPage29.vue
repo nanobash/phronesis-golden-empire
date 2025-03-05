@@ -23,7 +23,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-success">
-                        <strong>Good:</strong> We manage to successfully integrate new deposit form.
+                        <strong>Good:</strong> We managed to successfully integrate new deposit form.
                     </li>
 
                     <li class="list-group-item list-group-item-success">
