@@ -60,10 +60,6 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> Sub-types of identity proof is not displayed correctly (statically displays ID, passport and driving licence). Also, if we add other sub-types, nothing changes.
-                    </li>
-
-                    <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong> Perhaps will be better and more UX friendly if we toggle document types on Request KYC documents popup window (see the picture 1).
                     </li>
 
