@@ -86,6 +86,10 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong> Address field is overlapping the KYC process window (see the picture 5).
                     </li>
+
+                    <li class="list-group-item list-group-item-warning">
+                        <strong>Notice: </strong> Back button in <strong>Rules engine</strong> works unexpectedly, it memorizes actual loads of the page instead of the steps.
+                    </li>
                 </ol>
             </div>
         </div>
