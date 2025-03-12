@@ -55,8 +55,8 @@
                         <strong>Notice: KPI- KYC</strong> data is not updated.
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> Sub-types of identity proof is not displayed correctly (statically displays ID, passport and driving licence). Also, if we add other sub-types, nothing changes.
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> Sub-types of identity proof is not displayed correctly (statically displays ID, passport and driving licence). Also, if we add other sub-types, nothing changes.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
@@ -67,24 +67,24 @@
                         <strong>Notice: </strong> If for some cases KYC process take up to 2 business days, looking at the message it's a bit unclear that customer should do the deposit request from the scratch again (see the picture 2).
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> It is possible to add multiple Request KYC action under <strong>Gateway account requested</strong>, which should not be the case. Furthermore, we add new KYC action, checkboxes on previous one is unchecked.
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> It is possible to add multiple Request KYC action under <strong>Gateway account requested</strong>, which should not be the case. Furthermore, we add new KYC action, checkboxes on previous one is unchecked.
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> It is possible to add the same document types under the same Request KYC action section (see the picture 3).
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> It is possible to add the same document types under the same Request KYC action section (see the picture 3).
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> After choosing different document type, sub type does not clear the previous values, instead it disables the field directly (see the picture 4).
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> After choosing different document type, sub type does not clear the previous values, instead it disables the field directly (see the picture 4).
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong> In case document is rejected, transaction should be declined, however status in recomm is unknown.
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> Address field is overlapping the KYC process window (see the picture 5). <a href="https://github.com/Rebilly/rebilly/issues/10613" target="_blank">[GitHub issue]</a>
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> Address field is overlapping the KYC process window (see the picture 5). <a href="https://github.com/Rebilly/rebilly/issues/10613" target="_blank">[GitHub issue]</a>
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
