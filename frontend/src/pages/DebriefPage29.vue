@@ -90,7 +90,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: Deposit request is not started</strong> message appears when trying to <strong>Google pay</strong> initially with new amount.
+                        <strong>Bug: Deposit request is not started</strong> message appears when trying to <strong>Google pay</strong> initially with new amount. <a href="https://github.com/Rebilly/rebilly/issues/10587" target="_blank">[GitHub issue]</a>.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
@@ -101,19 +101,19 @@
         </div>
 
         <div class="col-12 text-start">
-            <img src="../assets/project29/picture_1.png" alt="Email notification reminder" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+            <img src="../assets/project29/picture_1.png" alt="amount buttons limit" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
 
         <div class="col-12 text-start">
-            <img src="../assets/project29/picture_2.png" alt="Email notification reminder" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+            <img src="../assets/project29/picture_2.png" alt="dropdown does not look good" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
 
         <div class="col-12 text-start">
-            <img src="../assets/project29/picture_3.png" alt="Email notification reminder" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+            <img src="../assets/project29/picture_3.png" alt="deposit request is not started" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
 
         <div class="col-12 text-start">
-            <img src="../assets/project29/picture_4.png" alt="Email notification reminder" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+            <img src="../assets/project29/picture_4.png" alt="continue button" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
     </div>
 </template>
