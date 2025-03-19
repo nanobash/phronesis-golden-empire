@@ -84,7 +84,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> Order status color missing the styling.
+                        <strong>Notice: </strong> Order <strong>Status</strong> missing the styling.
                     </li>
                 </ol>
             </div>
