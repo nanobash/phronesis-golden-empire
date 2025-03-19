@@ -31,7 +31,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-success">
-                        <strong>Good:</strong> We successfully created an order with monhtly plan subscription and one-time sale.
+                        <strong>Good:</strong> We successfully created order with monhtly plan subscription and one-time sale.
                     </li>
 
                     <li class="list-group-item list-group-item-success">
@@ -39,7 +39,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-success">
-                        <strong>Good:</strong> We successfully created an order with plan override.
+                        <strong>Good:</strong> We successfully created order with plan override.
                     </li>
                 </ol>
             </div>
