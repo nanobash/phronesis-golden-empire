@@ -90,6 +90,10 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong> Perhaps UX won't be good with many order items.
                     </li>
+
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong> Placed on is empty for one-time Order.
+                    </li>
                 </ol>
             </div>
         </div>
@@ -124,6 +128,10 @@
 
         <div class="col-12 text-start">
             <img src="../assets/project31/picture_8.png" alt="order items data table" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+        </div>
+
+        <div class="col-12 text-start">
+            <img src="../assets/project31/picture_9.png" alt="order placed on" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
     </div>
 </template>
