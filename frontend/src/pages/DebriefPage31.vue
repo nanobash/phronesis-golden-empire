@@ -86,6 +86,10 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong> Order <strong>Status</strong> missing the styling.
                     </li>
+
+                    <li class="list-group-item list-group-item-warning">
+                        <strong>Notice: </strong> Perhaps UX won't be good with many order items.
+                    </li>
                 </ol>
             </div>
         </div>
@@ -116,6 +120,10 @@
 
         <div class="col-12 text-start">
             <img src="../assets/project31/picture_7.png" alt="status color" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+        </div>
+
+        <div class="col-12 text-start">
+            <img src="../assets/project31/picture_8.png" alt="order items data table" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
     </div>
 </template>
