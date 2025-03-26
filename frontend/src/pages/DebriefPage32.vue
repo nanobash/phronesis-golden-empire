@@ -56,6 +56,10 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
+                        <strong>Notice: </strong> After add/edit user, page is not redicated to the listing page.
+                    </li>
+
+                    <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong> Unable to edit/delete invoice item on pending state (add is possible though).
                     </li>
 
