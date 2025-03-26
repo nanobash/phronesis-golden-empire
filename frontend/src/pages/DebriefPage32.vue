@@ -55,7 +55,7 @@
                         <strong>Notice: </strong> Perissions textarea can't be resized, which might be not quite convenient for many permissions in terms of UX.
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
+                    <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong> After add/edit user, page is not redicated to the listing page.
                     </li>
 
