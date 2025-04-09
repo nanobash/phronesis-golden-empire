@@ -60,7 +60,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> If AML process is paused for the specific customer, upon opening the aml check for the same customer, <strong>start-review</strong> request is automatically triggered.
+                        <strong>Notice: </strong> If <strong>AML</strong> process is paused for the specific customer, upon opening the aml check for the same customer, <strong>start-review</strong> request is automatically triggered.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
