@@ -68,7 +68,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Delivery settings country update does not reset state/provice on UI.
+                        <strong>Bug: </strong> Delivery settings country update does not reset state/province on UI.
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
