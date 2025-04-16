@@ -52,7 +52,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: Tags</strong> description is missing mentioning <strong>AML</strong> alongside customers and KYC docs.
+                        <strong>Bug: Tags</strong> description is missing mentioning <strong>AML</strong> alongside customers and KYC docs. <a href="https://github.com/Rebilly/rebilly/issues/11309" target="_blank">GitHub issue.</a>
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
