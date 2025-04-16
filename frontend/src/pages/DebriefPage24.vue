@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Project 24</h1>
+        <h1>Project 24: Route 3DS with checkout.com on Rebilly</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">

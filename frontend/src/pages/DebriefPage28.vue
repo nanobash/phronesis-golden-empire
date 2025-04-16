@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Project 28</h1>
+      <h1>Project 28: Subscription reactivations</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">

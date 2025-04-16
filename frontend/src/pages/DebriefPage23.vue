@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Project 23</h1>
+        <h1>Project 23: Integrate Checkout.com gateway</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">

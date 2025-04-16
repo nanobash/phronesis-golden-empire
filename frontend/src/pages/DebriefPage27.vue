@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Project 27</h1>
+      <h1>Project 27: Notify customers about trial ending</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">

@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Project 32</h1>
+      <h1>Project 32: Support team</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">

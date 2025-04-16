@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Project 30</h1>
+      <h1>Project 30: Collect KYC documents</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">

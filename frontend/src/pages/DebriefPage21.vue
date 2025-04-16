@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Project 21</h1>
+        <h1>Project 21: Casino fraud prevention</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">
