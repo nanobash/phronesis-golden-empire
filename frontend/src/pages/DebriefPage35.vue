@@ -52,7 +52,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: Tags</strong> description is missing mentioning<strong>AML</strong> alongside customers and KYC docs.
+                        <strong>Bug: Tags</strong> description is missing mentioning <strong>AML</strong> alongside customers and KYC docs.
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
