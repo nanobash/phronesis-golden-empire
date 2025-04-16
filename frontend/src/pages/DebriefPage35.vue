@@ -56,7 +56,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Customer tags dropdown should only show cutomer related tags.
+                        <strong>Bug: </strong> Customer tags dropdown should only show cutomer related tags. <a href="https://github.com/Rebilly/rebilly/issues/11314" target="_blank">GitHub issue.</a>
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
