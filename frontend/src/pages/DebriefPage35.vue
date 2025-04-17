@@ -60,7 +60,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: AML</strong> tag is not linkable.
+                        <strong>Bug: AML</strong> tag is not linkable. <a href="https://github.com/Rebilly/rebilly/issues/11326" target="_blank">GitHub issue.</a>
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
