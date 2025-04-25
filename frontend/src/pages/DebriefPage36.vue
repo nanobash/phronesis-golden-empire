@@ -27,11 +27,11 @@
                     </li>
 
                     <li class="list-group-item list-group-item-success">
-                        <strong>Good:</strong> We managed to successfully add custom domain into Rebilly sandbox account.
+                        <strong>Good:</strong> We managed to successfully add custom domains into Rebilly sandbox account.
                     </li>
 
                     <li class="list-group-item list-group-item-success">
-                        <strong>Good:</strong> We managed to successfully generate collect payment link that was redirected to custom domain.
+                        <strong>Good:</strong> We managed to successfully generate collect payment link that is redirected to custom domain.
                     </li>
                 </ol>
             </div>
@@ -56,7 +56,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> Rebilly docs AI did not work, but by the time of writing debrief it got resolved based on feedback mentioned in the channel.
+                        <strong>Notice: </strong> Rebilly docs AI did not work, but by the time of writing debrief it got resolved based on the feedback mentioned in the appropriate channel.
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
@@ -64,7 +64,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Custom domain value is not trimmed and might be confusing UX if customer could not see spaces or cursor. Can be solved simply trimming the value.
+                        <strong>Bug: </strong> Custom domain value is not trimmed and might be confusing UX if user could not see spaces or cursor. Can be solved simply trimming the value.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
