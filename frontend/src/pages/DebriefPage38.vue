@@ -49,7 +49,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: </strong> We tried to register new sandbox account for PayPal, but we did not get email for verification and thus could not make PayPal gateway active (stayed as pending) on Rebilly side.
+                        <strong>Notice: </strong> We tried to register new sandbox account for PayPal, but we did not get email for verification and thus could not make PayPal gateway account active (stayed as pending) on Rebilly side.
                     </li>
                 </ol>
             </div>
