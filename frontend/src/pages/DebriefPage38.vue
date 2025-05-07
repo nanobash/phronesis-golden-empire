@@ -68,7 +68,7 @@
         </div>
 
         <div class="col-12 text-start">
-            <img src="../assets/project38/picture_4.png" alt="billing agreement token error" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
+            <img src="../assets/project38/picture_4.png" alt="paypal pending gateway account" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
         </div>
     </div>
 </template>
