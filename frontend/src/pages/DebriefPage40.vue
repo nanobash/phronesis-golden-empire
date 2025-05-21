@@ -47,10 +47,6 @@
                         <strong>Notice: </strong> Do not close edit lead source popup form before validated, because we need to reenter all the values if some of the data is invalid.
                     </li>
 
-                    <li class="list-group-item list-group-item-warning">
-                        <strong>Notice: pending</strong> status is not quite informative for recurring data exports, because it gives impression that the process is not even started. Perhaps will be better to have some kind of indication of recurring data exports?
-                    </li>
-
                     <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong> Upon creating segment with lead source filters, we discovered that <strong>Save segment as -> Save</strong> does not work, does not do anything. <a href="https://github.com/Rebilly/rebilly/issues/12179" target="_blank">GitHub issue.</a>
                     </li>
