@@ -48,7 +48,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Should be <strong>Website ID</strong>, because dropdown actually displays ids of the website.
+                        <strong>Bug: </strong> Should be <strong>Website ID</strong>, because dropdown actually displays ids of the website. <a href="https://github.com/Rebilly/rebilly/issues/12478" target="_blank">GitHub issue.</a>
                     </li>
                 </ol>
             </div>
