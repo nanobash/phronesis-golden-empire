@@ -90,7 +90,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: Deposit request is not started</strong> message appears when trying to <strong>Google pay</strong> initially with new amount. <a href="https://github.com/Rebilly/rebilly/issues/10587" target="_blank">[GitHub issue]</a>.
+                        <strong>Bug: Deposit request is not started</strong> message appears when trying to <strong>Google pay</strong> initially with new amount. <a href="https://github.com/Rebilly/rebilly/issues/10587" target="_blank">GitHub issue</a>.
                     </li>
 
                     <li class="list-group-item list-group-item-warning">

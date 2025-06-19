@@ -84,7 +84,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Address field is overlapping the KYC process window (see the picture 5). <a href="https://github.com/Rebilly/rebilly/issues/10613" target="_blank">[GitHub issue]</a>
+                        <strong>Bug: </strong> Address field is overlapping the KYC process window (see the picture 5). <a href="https://github.com/Rebilly/rebilly/issues/10613" target="_blank">GitHub issue</a>
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
