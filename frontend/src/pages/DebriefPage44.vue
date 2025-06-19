@@ -40,7 +40,7 @@
             <div class="col-12 bg-light p-3 mb-3 rounded shadow-sm">
                 <ol class="list-group list-group-numbered text-start">
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong> Extra data features and features are the same.
+                        <strong>Bug: </strong> Extra data features and features are the same. <a href="https://github.com/Rebilly/rebilly/issues/13029" target="_blank">GitHub issue.</a>
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
