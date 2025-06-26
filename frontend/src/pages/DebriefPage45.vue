@@ -19,7 +19,7 @@
             <div class="col-12 bg-light p-3 mb-3 rounded shadow-sm">
                 <ol class="list-group list-group-numbered text-start">
                     <li class="list-group-item list-group-item-success">
-                        <strong>Good:</strong> The project requirements more or less clear.
+                        <strong>Good:</strong> The project requirements were more or less clear.
                     </li>
                 </ol>
             </div>
