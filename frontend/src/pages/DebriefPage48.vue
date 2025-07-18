@@ -36,10 +36,6 @@
             <div class="col-12 bg-light p-3 mb-3 rounded shadow-sm">
                 <ol class="list-group list-group-numbered text-start">
                     <li class="list-group-item list-group-item-danger">
-                        <strong>Bug: </strong>Broadcast message > form > Should say 0 customer matches this filter.
-                    </li>
-
-                    <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong>In webhooks form, in the body tab, the payload textarea should also include feature for users to select dynamic value placeholder, similar to that for email notification. We weren't sure that placeholder values are supported until we checked on the API documentation.
                     </li>
 
@@ -53,6 +49,10 @@
 
                     <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong>Filtering webhooks "Subscription activated" event with the "Subscription > Product > ID" does not work.
+                    </li>
+
+                    <li class="list-group-item list-group-item-danger">
+                        <strong>Bug: </strong>Typo in webhooks docs. <a href="https://github.com/Rebilly/rebilly/issues/13673">GitHub issue</a>
                     </li>
 
                     <li class="list-group-item list-group-item-warning">
