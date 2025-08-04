@@ -23,7 +23,7 @@
                     </li>
 
                     <li class="list-group-item list-group-item-success">
-                        We initally thought that the feature was broken, but it turned out that we had to wait for the automated tagging to take place.
+                        We initially thought that the feature was broken, but it turned out that we had to wait for the automated tagging to take place.
                     </li>
                 </ol>
             </div>
