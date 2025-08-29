@@ -15,5 +15,6 @@
     "express": "^4.21.2",
     "nodemon": "^3.1.10",
     "rebilly-js-sdk": "^58.16.0"
-  }
+  },
+  "type": "module"
 }
