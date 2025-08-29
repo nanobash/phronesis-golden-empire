@@ -14,8 +14,11 @@ const FRONTEND_ORIGIN_URL = process.env.FRONTEND_ORIGIN_URL;
 
 import express from "express";
 import RebillyAPI from "rebilly-js-sdk";
+import cors from "cors"
 
 const app = express();
+// Allow all origins
+app.use(cors({}));
 
 const rebilly = RebillyAPI({
     organizationId: ORGANIZATION_ID,
