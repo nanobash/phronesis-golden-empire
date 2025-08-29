@@ -28,6 +28,7 @@ const rebilly = RebillyAPI({
 });
 
 app.use(express.static("public"));
+app.use(express.json());
 
 app.post("/create-cashier", async (req, res) => {
     try {
@@ -35,7 +36,7 @@ app.post("/create-cashier", async (req, res) => {
             data: {
                 websiteId: WEBSITE_ID,
                 customerId: CUSTOMER_ID,
-                currency: "USD",
+                currency: req.body.currency,
             },
         });
 
