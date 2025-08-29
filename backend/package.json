@@ -14,7 +14,7 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "nodemon": "^3.1.10",
-    "rebilly-js-sdk": "^58.16.0"
+    "rebilly-js-sdk": "^60.11.0"
   },
   "type": "module"
 }
