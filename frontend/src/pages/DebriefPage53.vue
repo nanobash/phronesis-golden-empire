@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Project 52: Risk scores</h1>
+      <h1>Project 53: Free trials</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">
