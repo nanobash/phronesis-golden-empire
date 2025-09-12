@@ -79,10 +79,6 @@
                         <strong>Confusion: </strong>Perhaps reverse withdrawal should not be under favorite payment methods section?
                     </li>
 
-                    <div class="col-12 text-start">
-                        <img src="../assets/project56/picture_6.png" class="img-fluid rounded mb-3" style="max-width: 100%; height: auto;">
-                    </div>
-
                     <li class="list-group-item list-group-item-warning">
                         <strong>Notice: </strong>Perhaps declined cards should also be saved under favorite payment methods? For instance with the reasoning of insufficient funds.
                     </li>
