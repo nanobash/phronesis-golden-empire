@@ -9,6 +9,7 @@ import DebriefPage52 from "./pages/DebriefPage52.vue";
 import DebriefPage53 from "./pages/DebriefPage53.vue";
 import DebriefPage54 from "./pages/DebriefPage54.vue";
 import DebriefPage56 from "./pages/DebriefPage56.vue";
+import DebriefPage57 from "./pages/DebriefPage57.vue";
 
 const routes = [
     { path: '/', component: HomePage, name: 'Home' },
@@ -20,6 +21,7 @@ const routes = [
     { path: '/debrief-53', component: DebriefPage53, name: 'Debrief 53' },
     { path: '/debrief-54', component: DebriefPage54, name: 'Debrief 54' },
     { path: '/debrief-56', component: DebriefPage56, name: 'Debrief 56' },
+    { path: '/debrief-57', component: DebriefPage57, name: 'Debrief 57' },
 ];
 
 const router = createRouter({
