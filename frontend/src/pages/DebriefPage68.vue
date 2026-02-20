@@ -101,6 +101,11 @@
                     <li class="list-group-item list-group-item-danger">
                         <strong>Bug: </strong> Adding large quantity number
                         leads to 500 error.
+                        <a
+                            href="https://github.com/Rebilly/rebilly/issues/18942"
+                            target="_blank"
+                            >GitHub issue.</a
+                        >
                     </li>
 
                     <div class="col-12 text-start">
