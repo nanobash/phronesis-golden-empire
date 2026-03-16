@@ -194,14 +194,6 @@
                         page**, rather than to the **Upcoming Invoice** section
                         on the order details page.
                     </li>
-
-                    <div class="col-12 text-start">
-                        <img
-                            src="../assets/project69/9_1.png"
-                            class="img-fluid rounded mb-3"
-                            style="max-width: 100%; height: auto"
-                        />
-                    </div>
                 </ol>
             </div>
         </div>
