@@ -73,7 +73,7 @@
                         <strong
                             >Bug: Edit Items - Effective Date Section - </strong
                         >On the **Edit Items** page, the **Effective Date**
-                        section is missing the **"Now"** option in the radio
+                        section is missing the **Now** option in the radio
                         button group.
                     </li>
 
@@ -91,8 +91,8 @@
                         >We created an order with a **monthly subscription** and
                         attempted to change it to a **yearly subscription**.
                         <br />
-                        * Effective Date: set to the current time * Renewal
-                        Policy: **Retain**
+                        * Effective Date: set to the current time<br />
+                        * Renewal Policy: **Retain**
                         <br />
                         The resulting calculations appear inconsistent,
                         particularly regarding the calculated amounts and the
