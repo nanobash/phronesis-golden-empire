@@ -81,8 +81,8 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong>Confusion: </strong>After using the **Express
                         Deposit** feature, clicking the **Continue** button
-                        results in a page refresh and, redirects the user back
-                        to the homepage.
+                        results in a page refresh and, in some cases, redirects
+                        the user back to the homepage.
                     </li>
 
                     <div class="col-12 text-start">
