@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Project 69: New orders with plan upgrade/downgrade</h1>
+        <h1>Project 70: Casino express deposit and DCC</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">
