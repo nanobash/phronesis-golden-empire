@@ -39,10 +39,12 @@
                         <strong>Bug: Forgot password? - </strong>When filling in
                         the **Date of Birth** field in the **Update Account
                         Information** form and attempting to submit, the field
-                        is cleared and prevents form submission. * It becomes
-                        impossible to complete the password reset. *
-                        Additionally, it is unclear why completing this form is
-                        required as part of the password reset flow.
+                        is cleared and prevents form submission.
+                        <br />
+                        * It becomes impossible to complete the password reset.
+                        <br />
+                        * Additionally, it is unclear why completing this form
+                        is required as part of the password reset flow.
                     </li>
 
                     <div class="col-12 text-start">
