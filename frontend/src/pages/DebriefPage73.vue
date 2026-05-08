@@ -38,7 +38,7 @@
                 <ol class="list-group list-group-numbered text-start">
                     <li class="list-group-item list-group-item-warning">
                         <strong
-                            >Gateway Filters – Missing Comparison Operators
+                            >Gateway Filters – Missing Comparison Operators:
                         </strong>
                         In the gateway filter configuration, the available
                         options do not include <strong>greater than</strong> and
@@ -60,7 +60,7 @@
 
                     <li class="list-group-item list-group-item-warning">
                         <strong
-                            >Gateway Settings – Back Button Not Reliable
+                            >Gateway Settings – Back Button Not Reliable:
                         </strong>
                         The <strong>Back</strong> button on the gateway
                         configuration page does not consistently function as
@@ -70,7 +70,7 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong
                             >Payout Request Batch – UI Issue in Allocation Order
-                            Block
+                            Block:
                         </strong>
                         On the <strong>Payout Request Batch</strong> page,
                         within the <strong>Allocation Order</strong> section,
@@ -89,7 +89,7 @@
 
                     <li class="list-group-item list-group-item-warning">
                         <strong
-                            >Payout Requests Table – Amount Filter Not Working
+                            >Payout Requests Table – Amount Filter Not Working:
                         </strong>
                         The <strong>Amount</strong> filter in the
                         <strong>Payout Requests</strong> table is not
@@ -107,7 +107,7 @@
 
                     <li class="list-group-item list-group-item-warning">
                         <strong
-                            >Payout Request Batch Creation – Navigation Flow
+                            >Payout Request Batch Creation – Navigation Flow:
                         </strong>
                         After creating a payout batch, the system displays an
                         alert containing a link to the batch page. It may be
@@ -119,7 +119,7 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong
                             >Phronesis Exercise Limitation – Missing Gateway
-                            Configuration Context
+                            Configuration Context:
                         </strong>
                         The exercise could not be completed due to missing or
                         non-functional configuration rules. The specification
@@ -138,7 +138,7 @@
                     <li class="list-group-item list-group-item-warning">
                         <strong
                             >Payout Request Batch – Inactive "Block Batch"
-                            Action
+                            Action:
                         </strong>
                         After processing all allocations, the
                         <strong>Payout Request Batch</strong> page still
