@@ -50,15 +50,7 @@
                     <li class="list-group-item list-group-item-info">
                         <strong>Scenario 2:</strong>
 
-                        It was easy to understand that players were winning
-                        in May, which is why the total <strong>GGR</strong>
-                        is negative. It took about ~1 min to reach this
-                        conclusion.
-                    </li>
-
-                    <li class="list-group-item list-group-item-info">
-                        <strong>Scenario 2:</strong>
-
+                        It was easy to understand that players were winning in May, which is why the total <strong>GGR</strong> is negative. It took about ~1 min to reach this conclusion.</br>
                         It's a bit confusing how losses, win gross, and win net are actually calculated.
                     </li>
 
