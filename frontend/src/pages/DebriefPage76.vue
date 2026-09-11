@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Project 75: Merchant billing</h1>
+        <h1>Project 76: Payout request batch management</h1>
     </div>
 
     <div class="d-flex justify-content-center align-items-center">
