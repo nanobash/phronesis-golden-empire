@@ -82,6 +82,11 @@
                             style="max-width: 100%; height: auto"
                         />
                     </div>
+
+                    <li class="list-group-item list-group-item-info">
+                        We have confirmed that all the mentioned items are
+                        functioning properly as described.
+                    </li>
                 </ol>
             </div>
         </div>
